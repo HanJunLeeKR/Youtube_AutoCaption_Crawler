@@ -282,3 +282,5 @@ __pycache__/
 This tool collects publicly available material for research purposes. Do not set the delay between
 requests (`REQ_DELAY`) too low — it burdens the server and gets you blocked. Limit quotation and
 publication of the collected material to what your research actually requires.
+
+## Acknowledgements — Code refactoring and documentation were assisted by Claude (Anthropic).
