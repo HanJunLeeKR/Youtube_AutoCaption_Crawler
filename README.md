@@ -1,4 +1,4 @@
-ㅐ# Youtube_AutoCaption_Crawler
+# Youtube_AutoCaption_Crawler
 
 A Jupyter notebook that takes a single YouTube channel, downloads **video metadata and
 auto-generated subtitles (ASR)**, and organizes them into analysis-ready tables (CSV/XLSX)
